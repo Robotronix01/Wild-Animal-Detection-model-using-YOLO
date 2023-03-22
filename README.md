@@ -1,4 +1,3 @@
-# Wild-Animal-Detection-model-using-YOLO
 
 # Project Title - Wild Animal Detection In Night Vision
 
